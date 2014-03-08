@@ -19,3 +19,11 @@ The application has function to read user input, create file, and write the inpu
 REPALACE: button to replace  text
 APPEND: button to append text
 READ: button to read text from file
+
+March 7, 2014
+Database Assignment (Assignment 5)
+
+The application allow user to make table and add string on the table.
+Write DB: add string on table
+Read DB: read table from database
+Delete DB: delete table.
